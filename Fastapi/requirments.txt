@@ -1,0 +1,6 @@
+fastapi
+numpy
+pytorch_lightning
+torch
+PIL
+torchvision 
